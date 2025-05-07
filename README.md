@@ -1,6 +1,6 @@
 # 1. Clone the project
 git clone https://github.com/Kyle7994/chatDB_public.git 
-cd chatDB_python          # enter the project directory
+cd chatDB_public
 
 # 2. Add your OpenAI API key
 #    Edit .env file and set:
