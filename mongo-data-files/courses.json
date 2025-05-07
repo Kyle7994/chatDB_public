@@ -1,0 +1,752 @@
+[
+  {
+    "course_id": "HIST139",
+    "title": "Fundamentals of Computer Science",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST123",
+    "title": "Theory of Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "ECON477",
+    "title": "Survey of English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "MATH228",
+    "title": "History of Chemistry",
+    "credits": 3
+  },
+  {
+    "course_id": "BIO194",
+    "title": "Principles of Chemistry",
+    "credits": 1
+  },
+  {
+    "course_id": "BIO477",
+    "title": "Topics in Economics",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO132",
+    "title": "Fundamentals of Calculus",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM127",
+    "title": "Seminar in Economics",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG448",
+    "title": "History of Psychology",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM265",
+    "title": "Laboratory in Calculus",
+    "credits": 4
+  },
+  {
+    "course_id": "ECON428",
+    "title": "History of Biology",
+    "credits": 4
+  },
+  {
+    "course_id": "ECON161",
+    "title": "Principles of Psychology",
+    "credits": 3
+  },
+  {
+    "course_id": "MATH142",
+    "title": "Topics in Chemistry",
+    "credits": 1
+  },
+  {
+    "course_id": "PSY290",
+    "title": "Introduction to Economics",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST280",
+    "title": "Topics in Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO491",
+    "title": "Laboratory in English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "PSY241",
+    "title": "Advanced Physics",
+    "credits": 2
+  },
+  {
+    "course_id": "ART108",
+    "title": "Laboratory in Art",
+    "credits": 2
+  },
+  {
+    "course_id": "PSY341",
+    "title": "Principles of Art",
+    "credits": 2
+  },
+  {
+    "course_id": "PHYS233",
+    "title": "History of Art",
+    "credits": 3
+  },
+  {
+    "course_id": "CHEM469",
+    "title": "History of Economics",
+    "credits": 4
+  },
+  {
+    "course_id": "PSY313",
+    "title": "Principles of World History",
+    "credits": 2
+  },
+  {
+    "course_id": "ECON403",
+    "title": "Advanced Economics",
+    "credits": 4
+  },
+  {
+    "course_id": "CHEM213",
+    "title": "Theory of Art",
+    "credits": 3
+  },
+  {
+    "course_id": "CS411",
+    "title": "History of Chemistry",
+    "credits": 4
+  },
+  {
+    "course_id": "ENG198",
+    "title": "Seminar in Psychology",
+    "credits": 1
+  },
+  {
+    "course_id": "ENG162",
+    "title": "Laboratory in Art",
+    "credits": 3
+  },
+  {
+    "course_id": "ECON197",
+    "title": "Topics in English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "PSY195",
+    "title": "Principles of Biology",
+    "credits": 4
+  },
+  {
+    "course_id": "MATH123",
+    "title": "Seminar in English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "ENG185",
+    "title": "Survey of World History",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST248",
+    "title": "Survey of World History",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO153",
+    "title": "Survey of Physics",
+    "credits": 2
+  },
+  {
+    "course_id": "ECON437",
+    "title": "Survey of Art",
+    "credits": 1
+  },
+  {
+    "course_id": "MATH365",
+    "title": "Seminar in World History",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG344",
+    "title": "Introduction to English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "ENG358",
+    "title": "Topics in Art",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO489",
+    "title": "Survey of English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "ART438",
+    "title": "Topics in Art",
+    "credits": 4
+  },
+  {
+    "course_id": "ENG269",
+    "title": "Survey of Chemistry",
+    "credits": 3
+  },
+  {
+    "course_id": "BIO314",
+    "title": "History of Economics",
+    "credits": 3
+  },
+  {
+    "course_id": "ENG177",
+    "title": "Topics in Psychology",
+    "credits": 1
+  },
+  {
+    "course_id": "ECON102",
+    "title": "History of Biology",
+    "credits": 3
+  },
+  {
+    "course_id": "BIO357",
+    "title": "Principles of Calculus",
+    "credits": 1
+  },
+  {
+    "course_id": "BIO362",
+    "title": "Advanced Physics",
+    "credits": 3
+  },
+  {
+    "course_id": "CS306",
+    "title": "Laboratory in Computer Science",
+    "credits": 1
+  },
+  {
+    "course_id": "ENG377",
+    "title": "Principles of Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "ART356",
+    "title": "Seminar in World History",
+    "credits": 4
+  },
+  {
+    "course_id": "PHYS270",
+    "title": "Introduction to English Literature",
+    "credits": 3
+  },
+  {
+    "course_id": "MATH318",
+    "title": "Advanced World History",
+    "credits": 3
+  },
+  {
+    "course_id": "CHEM489",
+    "title": "Seminar in Computer Science",
+    "credits": 4
+  },
+  {
+    "course_id": "CHEM249",
+    "title": "Theory of Physics",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO144",
+    "title": "Topics in Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "ECON460",
+    "title": "Introduction to World History",
+    "credits": 1
+  },
+  {
+    "course_id": "PSY282",
+    "title": "Topics in Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "CS248",
+    "title": "Advanced Psychology",
+    "credits": 1
+  },
+  {
+    "course_id": "HIST127",
+    "title": "Seminar in Biology",
+    "credits": 1
+  },
+  {
+    "course_id": "PHYS364",
+    "title": "Principles of Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "MATH451",
+    "title": "Laboratory in Physics",
+    "credits": 1
+  },
+  {
+    "course_id": "HIST113",
+    "title": "Introduction to World History",
+    "credits": 4
+  },
+  {
+    "course_id": "PHYS320",
+    "title": "History of Art",
+    "credits": 1
+  },
+  {
+    "course_id": "PHYS257",
+    "title": "Seminar in World History",
+    "credits": 2
+  },
+  {
+    "course_id": "MATH434",
+    "title": "Topics in Computer Science",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO469",
+    "title": "Laboratory in Art",
+    "credits": 3
+  },
+  {
+    "course_id": "CS474",
+    "title": "Survey of English Literature",
+    "credits": 3
+  },
+  {
+    "course_id": "PSY462",
+    "title": "History of Economics",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO143",
+    "title": "Introduction to World History",
+    "credits": 2
+  },
+  {
+    "course_id": "CS277",
+    "title": "Principles of Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "BIO195",
+    "title": "Introduction to Computer Science",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST238",
+    "title": "Seminar in Physics",
+    "credits": 3
+  },
+  {
+    "course_id": "CS384",
+    "title": "Fundamentals of Chemistry",
+    "credits": 2
+  },
+  {
+    "course_id": "CHEM459",
+    "title": "Theory of Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "PHYS448",
+    "title": "Advanced Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO493",
+    "title": "Survey of Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "CHEM269",
+    "title": "Introduction to Art",
+    "credits": 4
+  },
+  {
+    "course_id": "ENG418",
+    "title": "Advanced Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM366",
+    "title": "Topics in Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "BIO428",
+    "title": "Topics in English Literature",
+    "credits": 3
+  },
+  {
+    "course_id": "CS147",
+    "title": "Introduction to Physics",
+    "credits": 4
+  },
+  {
+    "course_id": "ECON331",
+    "title": "Theory of World History",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO438",
+    "title": "Topics in English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG221",
+    "title": "Topics in English Literature",
+    "credits": 3
+  },
+  {
+    "course_id": "BIO264",
+    "title": "Principles of Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "ECON230",
+    "title": "History of Art",
+    "credits": 1
+  },
+  {
+    "course_id": "CS210",
+    "title": "Laboratory in Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO147",
+    "title": "Topics in Chemistry",
+    "credits": 4
+  },
+  {
+    "course_id": "PSY293",
+    "title": "Topics in Chemistry",
+    "credits": 4
+  },
+  {
+    "course_id": "BIO315",
+    "title": "Topics in Economics",
+    "credits": 3
+  },
+  {
+    "course_id": "PSY495",
+    "title": "Advanced Art",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG182",
+    "title": "Survey of Biology",
+    "credits": 3
+  },
+  {
+    "course_id": "ART179",
+    "title": "Survey of Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST410",
+    "title": "Fundamentals of Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "CHEM338",
+    "title": "History of Art",
+    "credits": 3
+  },
+  {
+    "course_id": "CHEM304",
+    "title": "Principles of Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "HIST201",
+    "title": "History of Art",
+    "credits": 3
+  },
+  {
+    "course_id": "BIO419",
+    "title": "Fundamentals of Physics",
+    "credits": 2
+  },
+  {
+    "course_id": "HIST114",
+    "title": "Theory of World History",
+    "credits": 2
+  },
+  {
+    "course_id": "ART313",
+    "title": "Introduction to Art",
+    "credits": 3
+  },
+  {
+    "course_id": "CHEM454",
+    "title": "Introduction to English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "ART476",
+    "title": "Principles of Economics",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM426",
+    "title": "Principles of Chemistry",
+    "credits": 3
+  },
+  {
+    "course_id": "PHYS134",
+    "title": "Laboratory in World History",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM222",
+    "title": "Advanced World History",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST338",
+    "title": "Theory of Biology",
+    "credits": 3
+  },
+  {
+    "course_id": "ECON457",
+    "title": "Advanced Biology",
+    "credits": 3
+  },
+  {
+    "course_id": "ENG498",
+    "title": "Advanced World History",
+    "credits": 2
+  },
+  {
+    "course_id": "PSY415",
+    "title": "Fundamentals of Psychology",
+    "credits": 1
+  },
+  {
+    "course_id": "ECON364",
+    "title": "Principles of Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "PHYS487",
+    "title": "Principles of English Literature",
+    "credits": 3
+  },
+  {
+    "course_id": "MATH125",
+    "title": "Theory of Biology",
+    "credits": 4
+  },
+  {
+    "course_id": "ART441",
+    "title": "Seminar in Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "CS358",
+    "title": "History of Biology",
+    "credits": 3
+  },
+  {
+    "course_id": "PSY112",
+    "title": "Principles of Physics",
+    "credits": 3
+  },
+  {
+    "course_id": "CS324",
+    "title": "Topics in Chemistry",
+    "credits": 2
+  },
+  {
+    "course_id": "ART253",
+    "title": "History of Biology",
+    "credits": 2
+  },
+  {
+    "course_id": "CHEM448",
+    "title": "Fundamentals of Chemistry",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST360",
+    "title": "Advanced Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "ART323",
+    "title": "Laboratory in Chemistry",
+    "credits": 1
+  },
+  {
+    "course_id": "ENG475",
+    "title": "Survey of English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "CS392",
+    "title": "Principles of Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "MATH398",
+    "title": "Advanced English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "CS416",
+    "title": "Fundamentals of Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "CHEM307",
+    "title": "Theory of Chemistry",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST375",
+    "title": "Survey of Art",
+    "credits": 2
+  },
+  {
+    "course_id": "CS175",
+    "title": "Theory of Biology",
+    "credits": 1
+  },
+  {
+    "course_id": "CHEM300",
+    "title": "Laboratory in Psychology",
+    "credits": 4
+  },
+  {
+    "course_id": "CHEM276",
+    "title": "History of Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "PSY157",
+    "title": "Fundamentals of English Literature",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG286",
+    "title": "Laboratory in Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "ECON473",
+    "title": "Survey of English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "PHYS109",
+    "title": "Introduction to Biology",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST463",
+    "title": "Theory of Chemistry",
+    "credits": 1
+  },
+  {
+    "course_id": "ENG246",
+    "title": "Fundamentals of Biology",
+    "credits": 4
+  },
+  {
+    "course_id": "CS194",
+    "title": "Survey of Psychology",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST317",
+    "title": "Theory of English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "CS125",
+    "title": "Laboratory in World History",
+    "credits": 2
+  },
+  {
+    "course_id": "CHEM457",
+    "title": "Advanced Physics",
+    "credits": 4
+  },
+  {
+    "course_id": "HIST470",
+    "title": "Fundamentals of Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "MATH474",
+    "title": "Advanced English Literature",
+    "credits": 1
+  },
+  {
+    "course_id": "MATH317",
+    "title": "Advanced Calculus",
+    "credits": 3
+  },
+  {
+    "course_id": "HIST250",
+    "title": "Seminar in Biology",
+    "credits": 1
+  },
+  {
+    "course_id": "PHYS373",
+    "title": "Principles of English Literature",
+    "credits": 4
+  },
+  {
+    "course_id": "MATH292",
+    "title": "Theory of Art",
+    "credits": 1
+  },
+  {
+    "course_id": "PSY197",
+    "title": "History of Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG258",
+    "title": "Principles of Biology",
+    "credits": 2
+  },
+  {
+    "course_id": "BIO253",
+    "title": "Seminar in Calculus",
+    "credits": 2
+  },
+  {
+    "course_id": "ENG480",
+    "title": "Laboratory in Psychology",
+    "credits": 3
+  },
+  {
+    "course_id": "PSY248",
+    "title": "Topics in Chemistry",
+    "credits": 1
+  },
+  {
+    "course_id": "PHYS424",
+    "title": "History of Psychology",
+    "credits": 3
+  },
+  {
+    "course_id": "CS208",
+    "title": "Theory of Chemistry",
+    "credits": 2
+  }
+]

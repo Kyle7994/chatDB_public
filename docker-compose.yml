@@ -1,0 +1,75 @@
+services:
+  mysql:
+    image: mysql:8.4
+    environment:
+      MYSQL_ROOT_PASSWORD: Q1234
+      MYSQL_DATABASE: shopping
+      MYSQL_USER: chat
+      MYSQL_PASSWORD: chatpass
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./mysql/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    ports:
+      - "13306:3306"
+    restart: unless-stopped
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-pQ1234" ]
+      start_period: 30s
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  mongo:
+    image: mongo:8.0
+    command: ["mongod", "--auth"]
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: Q1234
+      MONGO_INITDB_DATABASE: university
+
+    volumes:
+      - ./loadMongoData.js:/docker-entrypoint-initdb.d/loadMongoData.js:ro
+      - ./mongo-data-files:/docker-entrypoint-initdb.d/mongo-data-files:ro
+    ports:
+      - "27018:27017"
+    restart: unless-stopped
+    healthcheck:
+      test:
+        [
+          "CMD", "mongosh",
+          "-u", "root", "-p", "Q1234",
+          "--authenticationDatabase", "admin",
+          "--eval", "db.runCommand({ ping: 1 }).ok"
+        ]
+      start_period: 30s   
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  app:
+    build: ./app
+    depends_on:
+      mysql:
+        condition: service_healthy
+      mongo:
+        condition: service_healthy
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+
+      - MYSQL_HOST=mysql
+      - MYSQL_PORT=3306
+      - MYSQL_USER=chat
+      - MYSQL_PASSWORD=chatpass
+      - MYSQL_DB=shopping
+
+      - MONGO_URI=${MONGO_URI}
+      - MONGO_DEFAULT_DB=${MONGO_DEFAULT_DB}
+      - MONGO_DB=${MONGO_DEFAULT_DB}
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - ./app:/app
+
+volumes:
+  mysql_data:
+  mongo_data:

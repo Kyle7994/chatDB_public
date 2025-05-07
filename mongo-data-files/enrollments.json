@@ -1,0 +1,1052 @@
+[
+  {
+    "enrollment_id": 1,
+    "student_id": 4,
+    "course_id": "CHEM489",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 2,
+    "student_id": 70,
+    "course_id": "PHYS134",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 3,
+    "student_id": 60,
+    "course_id": "CS210",
+    "term": "Fall 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 4,
+    "student_id": 129,
+    "course_id": "ENG498",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 5,
+    "student_id": 91,
+    "course_id": "CS248",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 6,
+    "student_id": 85,
+    "course_id": "ECON460",
+    "term": "Summer 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 7,
+    "student_id": 87,
+    "course_id": "PSY495",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 8,
+    "student_id": 18,
+    "course_id": "HIST201",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 9,
+    "student_id": 86,
+    "course_id": "BIO253",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 10,
+    "student_id": 37,
+    "course_id": "ENG475",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 11,
+    "student_id": 117,
+    "course_id": "MATH123",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 12,
+    "student_id": 25,
+    "course_id": "CS416",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 13,
+    "student_id": 71,
+    "course_id": "MATH123",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 14,
+    "student_id": 109,
+    "course_id": "HIST201",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 15,
+    "student_id": 93,
+    "course_id": "CHEM459",
+    "term": "Summer 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 16,
+    "student_id": 17,
+    "course_id": "BIO264",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 17,
+    "student_id": 82,
+    "course_id": "CHEM454",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 18,
+    "student_id": 126,
+    "course_id": "PSY495",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 19,
+    "student_id": 93,
+    "course_id": "CHEM459",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 20,
+    "student_id": 21,
+    "course_id": "CHEM366",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 21,
+    "student_id": 34,
+    "course_id": "CHEM300",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 22,
+    "student_id": 43,
+    "course_id": "ENG475",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 23,
+    "student_id": 133,
+    "course_id": "ENG480",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 24,
+    "student_id": 28,
+    "course_id": "CS175",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 25,
+    "student_id": 61,
+    "course_id": "ECON364",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 26,
+    "student_id": 34,
+    "course_id": "ENG358",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 27,
+    "student_id": 68,
+    "course_id": "CS392",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 28,
+    "student_id": 81,
+    "course_id": "CS416",
+    "term": "Summer 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 29,
+    "student_id": 126,
+    "course_id": "CHEM457",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 30,
+    "student_id": 41,
+    "course_id": "BIO489",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 31,
+    "student_id": 93,
+    "course_id": "BIO493",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 32,
+    "student_id": 63,
+    "course_id": "HIST410",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 33,
+    "student_id": 69,
+    "course_id": "ECON364",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 34,
+    "student_id": 62,
+    "course_id": "PHYS270",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 35,
+    "student_id": 4,
+    "course_id": "ECON331",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 36,
+    "student_id": 135,
+    "course_id": "ART476",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 37,
+    "student_id": 66,
+    "course_id": "ENG358",
+    "term": "Summer 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 38,
+    "student_id": 79,
+    "course_id": "ENG162",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 39,
+    "student_id": 100,
+    "course_id": "ECON428",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 40,
+    "student_id": 44,
+    "course_id": "PHYS320",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 41,
+    "student_id": 66,
+    "course_id": "PHYS134",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 42,
+    "student_id": 68,
+    "course_id": "PSY341",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 43,
+    "student_id": 39,
+    "course_id": "CHEM300",
+    "term": "Summer 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 44,
+    "student_id": 136,
+    "course_id": "HIST410",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 45,
+    "student_id": 133,
+    "course_id": "PSY495",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 46,
+    "student_id": 63,
+    "course_id": "BIO491",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 47,
+    "student_id": 65,
+    "course_id": "MATH142",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 48,
+    "student_id": 89,
+    "course_id": "MATH142",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 49,
+    "student_id": 64,
+    "course_id": "MATH228",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 50,
+    "student_id": 115,
+    "course_id": "PHYS448",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 51,
+    "student_id": 60,
+    "course_id": "HIST139",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 52,
+    "student_id": 45,
+    "course_id": "ENG286",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 53,
+    "student_id": 53,
+    "course_id": "CS306",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 54,
+    "student_id": 51,
+    "course_id": "HIST375",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 55,
+    "student_id": 31,
+    "course_id": "CHEM222",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 56,
+    "student_id": 42,
+    "course_id": "CHEM265",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 57,
+    "student_id": 54,
+    "course_id": "ENG269",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 58,
+    "student_id": 5,
+    "course_id": "ECON197",
+    "term": "Fall 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 59,
+    "student_id": 52,
+    "course_id": "ART179",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 60,
+    "student_id": 52,
+    "course_id": "HIST375",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 61,
+    "student_id": 130,
+    "course_id": "CHEM489",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 62,
+    "student_id": 5,
+    "course_id": "ECON102",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 63,
+    "student_id": 144,
+    "course_id": "CHEM489",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 64,
+    "student_id": 91,
+    "course_id": "PSY112",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 65,
+    "student_id": 58,
+    "course_id": "CS358",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 66,
+    "student_id": 88,
+    "course_id": "HIST238",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 67,
+    "student_id": 56,
+    "course_id": "PSY197",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 68,
+    "student_id": 129,
+    "course_id": "CHEM307",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 69,
+    "student_id": 120,
+    "course_id": "ECON331",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 70,
+    "student_id": 142,
+    "course_id": "ART356",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 71,
+    "student_id": 85,
+    "course_id": "PHYS109",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 72,
+    "student_id": 3,
+    "course_id": "CHEM454",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 73,
+    "student_id": 98,
+    "course_id": "PHYS257",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 74,
+    "student_id": 93,
+    "course_id": "HIST238",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 75,
+    "student_id": 129,
+    "course_id": "PHYS364",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 76,
+    "student_id": 116,
+    "course_id": "MATH474",
+    "term": "Summer 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 77,
+    "student_id": 112,
+    "course_id": "ENG269",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 78,
+    "student_id": 150,
+    "course_id": "MATH292",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 79,
+    "student_id": 31,
+    "course_id": "CHEM127",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 80,
+    "student_id": 109,
+    "course_id": "CHEM457",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 81,
+    "student_id": 102,
+    "course_id": "ECON460",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 82,
+    "student_id": 143,
+    "course_id": "PHYS487",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 83,
+    "student_id": 22,
+    "course_id": "ART179",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 84,
+    "student_id": 36,
+    "course_id": "ENG448",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 85,
+    "student_id": 3,
+    "course_id": "BIO362",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 86,
+    "student_id": 5,
+    "course_id": "ECON230",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 87,
+    "student_id": 2,
+    "course_id": "CHEM265",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 88,
+    "student_id": 148,
+    "course_id": "HIST114",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 89,
+    "student_id": 145,
+    "course_id": "MATH228",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 90,
+    "student_id": 108,
+    "course_id": "PSY195",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 91,
+    "student_id": 5,
+    "course_id": "BIO264",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 92,
+    "student_id": 146,
+    "course_id": "BIO357",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 93,
+    "student_id": 50,
+    "course_id": "PHYS270",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 94,
+    "student_id": 41,
+    "course_id": "ENG246",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 95,
+    "student_id": 16,
+    "course_id": "BIO477",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 96,
+    "student_id": 57,
+    "course_id": "CS277",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 97,
+    "student_id": 69,
+    "course_id": "ENG185",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 98,
+    "student_id": 102,
+    "course_id": "CHEM269",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 99,
+    "student_id": 146,
+    "course_id": "ECON460",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 100,
+    "student_id": 22,
+    "course_id": "ECON364",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 101,
+    "student_id": 15,
+    "course_id": "BIO253",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 102,
+    "student_id": 78,
+    "course_id": "CS277",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 103,
+    "student_id": 83,
+    "course_id": "ENG344",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 104,
+    "student_id": 112,
+    "course_id": "CS411",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 105,
+    "student_id": 38,
+    "course_id": "ART441",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 106,
+    "student_id": 45,
+    "course_id": "BIO195",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 107,
+    "student_id": 93,
+    "course_id": "PSY293",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 108,
+    "student_id": 55,
+    "course_id": "CHEM222",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 109,
+    "student_id": 44,
+    "course_id": "PHYS134",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 110,
+    "student_id": 118,
+    "course_id": "HIST338",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 111,
+    "student_id": 6,
+    "course_id": "HIST360",
+    "term": "Spring 2025",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 112,
+    "student_id": 98,
+    "course_id": "BIO419",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 113,
+    "student_id": 4,
+    "course_id": "MATH228",
+    "term": "Fall 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 114,
+    "student_id": 2,
+    "course_id": "ECON457",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 115,
+    "student_id": 92,
+    "course_id": "ART313",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 116,
+    "student_id": 9,
+    "course_id": "ENG221",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 117,
+    "student_id": 63,
+    "course_id": "PHYS448",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 118,
+    "student_id": 38,
+    "course_id": "BIO147",
+    "term": "Fall 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 119,
+    "student_id": 141,
+    "course_id": "CS194",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 120,
+    "student_id": 32,
+    "course_id": "ART476",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 121,
+    "student_id": 95,
+    "course_id": "ART441",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 122,
+    "student_id": 78,
+    "course_id": "CHEM426",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 123,
+    "student_id": 136,
+    "course_id": "PHYS109",
+    "term": "Spring 2025",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 124,
+    "student_id": 150,
+    "course_id": "HIST139",
+    "term": "Fall 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 125,
+    "student_id": 105,
+    "course_id": "HIST123",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 126,
+    "student_id": 106,
+    "course_id": "BIO194",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 127,
+    "student_id": 4,
+    "course_id": "CHEM213",
+    "term": "Fall 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 128,
+    "student_id": 114,
+    "course_id": "CS147",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 129,
+    "student_id": 1,
+    "course_id": "BIO428",
+    "term": "Spring 2025",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 130,
+    "student_id": 40,
+    "course_id": "ENG480",
+    "term": "Summer 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 131,
+    "student_id": 107,
+    "course_id": "ART313",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 132,
+    "student_id": 91,
+    "course_id": "BIO469",
+    "term": "Fall 2024",
+    "grade": "D"
+  },
+  {
+    "enrollment_id": 133,
+    "student_id": 31,
+    "course_id": "HIST113",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 134,
+    "student_id": 33,
+    "course_id": "BIO132",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 135,
+    "student_id": 143,
+    "course_id": "CHEM307",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 136,
+    "student_id": 115,
+    "course_id": "CHEM304",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 137,
+    "student_id": 21,
+    "course_id": "BIO195",
+    "term": "Fall 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 138,
+    "student_id": 117,
+    "course_id": "ENG177",
+    "term": "Summer 2024",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 139,
+    "student_id": 94,
+    "course_id": "PSY197",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 140,
+    "student_id": 86,
+    "course_id": "PSY290",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 141,
+    "student_id": 139,
+    "course_id": "BIO362",
+    "term": "Summer 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 142,
+    "student_id": 121,
+    "course_id": "BIO493",
+    "term": "Spring 2025",
+    "grade": null
+  },
+  {
+    "enrollment_id": 143,
+    "student_id": 136,
+    "course_id": "HIST139",
+    "term": "Summer 2024",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 144,
+    "student_id": 40,
+    "course_id": "HIST127",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 145,
+    "student_id": 80,
+    "course_id": "ART476",
+    "term": "Summer 2024",
+    "grade": "F"
+  },
+  {
+    "enrollment_id": 146,
+    "student_id": 88,
+    "course_id": "CS277",
+    "term": "Spring 2025",
+    "grade": "C"
+  },
+  {
+    "enrollment_id": 147,
+    "student_id": 119,
+    "course_id": "ENG448",
+    "term": "Summer 2024",
+    "grade": null
+  },
+  {
+    "enrollment_id": 148,
+    "student_id": 48,
+    "course_id": "ECON437",
+    "term": "Spring 2025",
+    "grade": "B"
+  },
+  {
+    "enrollment_id": 149,
+    "student_id": 85,
+    "course_id": "MATH398",
+    "term": "Fall 2024",
+    "grade": "A"
+  },
+  {
+    "enrollment_id": 150,
+    "student_id": 91,
+    "course_id": "CHEM304",
+    "term": "Summer 2024",
+    "grade": "D"
+  }
+]
