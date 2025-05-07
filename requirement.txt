@@ -1,0 +1,5 @@
+# This project runs entirely with Docker.
+# You don’t need to manually install Python packages.
+
+# If you’re not using Docker and want to run things manually,
+# please check app/requirements.txt for all the necessary Python libraries.
