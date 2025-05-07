@@ -1,5 +1,5 @@
-# 1. Clone the project (if you haven’t already)
-git clone https://github.com/Kyle7994/chatDB_python.git
+# 1. Clone the project
+git clone https://github.com/Kyle7994/chatDB_public.git 
 cd chatDB_python          # enter the project directory
 
 # 2. Add your OpenAI API key
